@@ -1,5 +1,5 @@
-<h1 align="center"><b>Hi , I'm Abdul Khalid </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->A
+<h1 align="center"><b>Hi , I'm Nat Arrazola </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
 <h3 align="center">🧑‍💻 Frontend Developer | 🎨 UI/UX Designer | 🌐 Web Developer 📍 Desde México | ✨ Apasionada por crear experiencias digitales</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natdevx&label=Profile%20views&color=0e75b6&style=flat" alt="natdevx" /> </p>
