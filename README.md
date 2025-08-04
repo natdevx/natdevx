@@ -18,6 +18,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<br>
 - 🌱 I’m currently learning **React, Diseño UI/UX, JavaScript Avanzado, Git y Ciberseguridad**
 
 - 💬 Ask me about **HTML, CSS,JavaScript, Python, React, Angular, UX/UI, diseño de interfaces, Figma, GitHub, Git**
@@ -26,10 +27,11 @@
 
 - ⚡ Fun fact **Me encanta crear proyectos visualmente atractivos, y soy fan de los lobos y la estética retro digital 🐺✨**
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/natxarrazola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="natxarrazola" height="30" width="40" /></a>
+
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+<br>
+<p align="center">
+	<a href="https://codepen.io/natxarrazola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="natxarrazola" height="30" width="40" /></a>
 <a href="https://twitter.com/_natxarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_natxarr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/natarrazola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="natarrazola" height="30" width="40" /></a>
 <a href="https://fb.com/natxarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="natxarr" height="30" width="40" /></a>
@@ -37,7 +39,8 @@
 <a href="https://www.hackerrank.com/natyarrazola13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="natyarrazola13" height="30" width="40" /></a>
 <a href="https://discord.gg/_natxarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_natxarr" height="30" width="40" /></a>
 </p>
-
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
