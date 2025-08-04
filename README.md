@@ -1,13 +1,23 @@
 <h1 align="center"><b>Hi , I'm Nat Arrazola </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
+<img width="2316" height="910" alt="Image" src="https://github.com/user-attachments/assets/227265fc-1b09-415f-86ef-79eef36b9c56" />
+<!--  -->
 <h3 align="center">🧑‍💻 Frontend Developer | 🎨 UI/UX Designer | 🌐 Web Developer 📍 Desde México | ✨ Apasionada por crear experiencias digitales</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=natdevx&label=Profile%20views&color=0e75b6&style=flat" alt="natdevx" /> </p>
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=natdevx&label=Profile%20views&color=0e75b6&style=flat" alt="natdevx"  height=25px, width=160px/> 
+	<!---
+		<a href = "https://commits.top/egypt.html" target="_blank">
+			<img src="https://aktive.tk/egypt/7oSkaaa?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
+		</a>
+	-->
+	<a href="https://twitter.com/_natxarr" target="blank"><img src="https://img.shields.io/twitter/follow/_natxarr?logo=twitter&style=for-the-badge" alt="_natxarr" /></a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natdevx" alt="natdevx" /></a> </p>
+</p>
 
-<p align="left"> <a href="https://twitter.com/_natxarr" target="blank"><img src="https://img.shields.io/twitter/follow/_natxarr?logo=twitter&style=for-the-badge" alt="_natxarr" /></a> </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 - 🌱 I’m currently learning **React, Diseño UI/UX, JavaScript Avanzado, Git y Ciberseguridad**
 
 - 💬 Ask me about **HTML, CSS,JavaScript, Python, React, Angular, UX/UI, diseño de interfaces, Figma, GitHub, Git**
@@ -15,10 +25,8 @@
 - 📫 How to reach me **nat.tuemail@gmail.com | [LinkedIn](https://www.linkedin.com/in/tuusuario)**
 
 - ⚡ Fun fact **Me encanta crear proyectos visualmente atractivos, y soy fan de los lobos y la estética retro digital 🐺✨**
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/natxarrazola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="natxarrazola" height="30" width="40" /></a>
