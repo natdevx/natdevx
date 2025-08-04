@@ -19,14 +19,43 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <br>
-- 🌱 I’m currently learning **React, Diseño UI/UX, JavaScript Avanzado, Git y Ciberseguridad**
+- 🎓 I recently graduated with a degree in `Computer Systems Engineering` from **Instituto Tecnológico Superior de Calkiní**.
 
-- 💬 Ask me about **HTML, CSS,JavaScript, Python, React, Angular, UX/UI, diseño de interfaces, Figma, GitHub, Git**
-
-- 📫 How to reach me **nat.tuemail@gmail.com | [LinkedIn](https://www.linkedin.com/in/tuusuario)**
-
-- ⚡ Fun fact **Me encanta crear proyectos visualmente atractivos, y soy fan de los lobos y la estética retro digital 🐺✨**
+- 👩🏻‍💻 I'm passionate about `Frontend Development`, `UI/UX Design`, and everything web.
+  
+- 🌱 I'm currently improving my skills in `JavaScript`, `React`, and `modern CSS`.
+  
+- 🎯 I love turning creative ideas into interactive and accessible user interfaces.
+  
+- 📚 I'm also exploring areas like `Web Accessibility`, `Responsive Design`, and `Web Animations`.
+  
+- 💬 Always open to learning new things, collaborating on cool projects, or helping others.
+  
+- 💼 Currently open to a new `job opportunity` in Frontend or Web Development roles.
+  
+- 📄 Here's my [**Resume**](#) — I'm open to feedback!
+  
+- 🌐 Check out my [**Portfolio**](#) to see some of my work!
+  
+- 📫 How to reach me: **natividad.arrazola.pro@gmail.com** | [**LinkedIn**](https://www.linkedin.com/in/natarrazola)
 <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <br>
