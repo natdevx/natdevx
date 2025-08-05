@@ -2,8 +2,8 @@
 <!--  -->
 <img width="2316" height="910" alt="Image" src="https://github.com/user-attachments/assets/227265fc-1b09-415f-86ef-79eef36b9c56" />
 <!--  -->
-<h3 align="center">🧑‍💻 Frontend Developer | 🎨 UI/UX Designer | 🌐 Web Developer 📍 Desde México | ✨ Apasionada por crear experiencias digitales</h3>
-
+<br>
+<br>
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=natdevx&label=Profile%20views&color=0e75b6&style=flat" alt="natdevx"  height=25px, width=160px/> 
 	<!---
