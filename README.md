@@ -49,7 +49,8 @@
 
 <p align="center">
 
-### 🧠 Languages:     
+### 🧠 Languages:
+
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -76,13 +77,14 @@
 
 </span>
 
-### 🔧 Sofwares & Tools:
+### 🧰 Softwares & Tools:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 </span>
 
 ### 🎨 Design & Productivity:
@@ -94,37 +96,179 @@
 
 </p>
 <br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <br>
 <p align="center">
-	<a href="https://linkedin.com/in/natarrazola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="natarrazola" height="30" width="40" /></a>
-<a href="https://twitter.com/_natxarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_natxarr" height="30" width="40" /></a>
-<a href="https://fb.com/natxarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="natxarr" height="30" width="40" /></a>
-<a href="https://instagram.com/_natxarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_natxarr" height="30" width="40" /></a>
-<a href="https://discord.gg/_natxarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_natxarr" height="30" width="40" /></a>
-	<a href="https://codepen.io/natxarrazola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="natxarrazola" height="30" width="40" /></a>
-	<a href="https://www.hackerrank.com/natyarrazola13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="natyarrazola13" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/natarrazola" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/_natxarr" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://fb.com/natxarr" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/_natxarr" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/_natxarr" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
+  </a>
+  <a href="https://www.threads.net/@_natxarr" target="_blank">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/natyarrazola13" target="_blank">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
+  <a href="https://codepen.io/natxarrazola" target="_blank">
+    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+  </a>
+  <a href="https://www.indeed.com/" target="_blank">
+    <img src="https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white" />
+  </a>
 </p>
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+<br> 
 
-## 🛠️ Skills
+<p align="center">
+  <img 
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=life" 
+    alt="Quote"
+  />
+</p>
 
+<br> 
 
-### 🗃️ Databases
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server)
-
-### 🔧 Tools & Others
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-
-
+---
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=natdevx&show_icons=true&locale=en&layout=compact" alt="natdevx" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=natdevx&" alt="natdevx" /></p>
+
+
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+
+<details><summary><h3> 🔥 Streak Stats</h3></summary>
+
+
+----	
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=tokyonight_duo" alt="7oSkaaa" /></p>
+
+</details>
+  
+<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+
+----
+	
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
+<br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+</details>
+
+<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
+
+----
+	
+[![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=7oSkaaa&theme=github	)](https://github.com/7oSkaaa/github-readme-activity-graph)
+
+ 
+</details>
+
+<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
+
+----
+	
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
+
+[![@7oskaa's Holopin board](https://holopin.io/api/user/board?user=7oskaa)](https://holopin.io/@7oskaa)
+	
+</details>
+	
+<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+
+----
+	
+<div>
+  <p align="center">
+	<a href="https://github.com/7oSkaaa/LeetCode_DailyChallenge_2023">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/7oSkaaa/Ahmed-Hossam">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/7oSkaaa/Strees_Testing">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/7oSkaaa/CP-Templates">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Templates&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/7oSkaaa/Codeforces-Polygon-Template">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Polygon-Template&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/7oSkaaa/Some-Linux-Commands">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Some-Linux-Commands&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/7oSkaaa/Shorten-Link">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Shorten-Link&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/7oSkaaa/7oSkaaa">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=7oSkaaa&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/7oSkaaa/Competitive-Programming-Session-Content">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Competitive-Programming-Session-Content&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/7oSkaaa/VS-Code-for-CP">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=VS-Code-for-CP&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/7oSkaaa/Sorting-Algorithms">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Sorting-Algorithms&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/7oSkaaa/board-link-generator">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=board-link-generator&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/7oSkaaa/Tic-Tac-Toe-GUI">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Tic-Tac-Toe-GUI&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/7oSkaaa/PhoneBook-System">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=PhoneBook-System&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/7oSkaaa/Codeforces-Sheet-Generator">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Sheet-Generator&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/7oSkaaa/CP-Calendar">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Calendar&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/7oSkaaa/Codeforces-Friends-Script">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Friends-Script&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/7oSkaaa/vJudge-Board-Scrapper">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=vJudge-Board-Scrapper&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/7oSkaaa/CP-Templates-Snippets">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Templates-Snippets&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/7oSkaaa/Udemy-Website">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Udemy-Website&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+  </p>
+</div>
+</details>
+
+</br></br>
+	
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
