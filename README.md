@@ -38,7 +38,7 @@
 
 - 🌐 Check out my [**Portfolio**](#) to see some of my work!
 
-- 📫 How to reach me: **natividad.arrazola.pro@gmail.com** | [**LinkedIn**](https://www.linkedin.com/in/natarrazola)
+- 📫 How to reach me: **natividad.arrazola.pro@gmail.com** | [**LinkedIn**](https://www.linkedin.com/in/natarrazola-dev)
 
 <br>
 
