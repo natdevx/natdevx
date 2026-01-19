@@ -4,15 +4,13 @@
 <!--  -->
 <br>
 <br>
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=natdevx&label=Profile%20views&color=0e75b6&style=flat" alt="natdevx"  height=25px, width=160px/> 
-	<!---
-		<a href = "https://commits.top/egypt.html" target="_blank">
-			<img src="https://aktive.tk/egypt/7oSkaaa?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
-		</a>
-	-->
-	<a href="https://twitter.com/_natxarr" target="blank"><img src="https://img.shields.io/twitter/follow/_natxarr?logo=twitter&style=for-the-badge" alt="_natxarr" /></a>
-
+<p align="center">
+  <a href="https://TU-PORTFOLIO">
+    <img src="https://img.shields.io/badge/Portafolio-008080?style=for-the-badge&logo=ko-fi&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/natarrazola-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
@@ -20,25 +18,11 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me 
 <br>
 
-- 🎓 I recently graduated with a degree in **Computer Systems Engineering** from the **Instituto Tecnológico Superior de Calkiní**.
-
-- 👩🏻‍💻 I'm passionate about **Frontend Development**, **UI/UX Design**, and everything web.
-
-- 🌱 I'm currently improving my skills in **JavaScript**, **React**, and **modern CSS**.
-
-- 🎯 I love turning creative ideas into interactive and accessible user interfaces.
-
-- 📚 I'm also exploring areas like **Web Accessibility**, **Responsive Design**, and **Web Animations**.
-
-- 💬 Always open to learning new things, collaborating on cool projects, or helping others.
-
-- 💼 Currently open to a new **job opportunity** in Frontend or Web Development roles.
-
-- 📄 Here's my [**Resume**](#) — I'm open to feedback!
-
-- 🌐 Check out my [**Portfolio**](#) to see some of my work!
-
-- 📫 How to reach me: **natividad.arrazola.pro@gmail.com** | [**LinkedIn**](https://www.linkedin.com/in/natarrazola-dev)
+- 🎓 Computer Systems Engineering graduate  
+- 💻 Frontend Developer focused on **React, JavaScript & modern CSS**
+- 🎨 Passionate about **UI/UX and accessibility**
+- 🌱 Constantly learning and improving my web skills
+- 💼 Open to **Frontend / Web Developer opportunities**
 
 <br>
 
@@ -83,8 +67,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+
 </span>
 
 ### 🎨 Design & Productivity:
@@ -99,38 +82,62 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+## <picture>
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px">
+</picture>
+Connect with me
 <br>
+
 <p align="center">
-  <a href="https://linkedin.com/in/natarrazola" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://discord.gg/_natxarr" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://fb.com/natxarr" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/_natxarr" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/_natxarr" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
-  </a>
-  <a href="https://www.threads.net/@_natxarr" target="_blank">
-    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/natyarrazola13" target="_blank">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
-  </a>
-  <a href="https://codepen.io/natxarrazola" target="_blank">
-    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
-  </a>
+  <!-- Indeed -->
   <a href="https://www.indeed.com/" target="_blank">
-    <img src="https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white" />
+    <img src="https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white" />
+  </a>
+
+  <!-- Computrabajo -->
+  <a href="https://www.computrabajo.com.mx/" target="_blank">
+    <img src="https://img.shields.io/badge/Computrabajo-0077C8?style=for-the-badge&logo=briefcase&logoColor=white" />
+  </a>
+
+  <!-- CodePen -->
+  <a href="https://codepen.io/natxarrazola" target="_blank">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+  </a>
+
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/natyarrazola13" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+
+  <!-- X -->
+  <a href="https://twitter.com/_natxarr" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/_natxarr" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <!-- Discord -->
+  <a href="https://discord.gg/_natxarr" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+
+  <!-- Threads -->
+  <a href="https://www.threads.net/@_natxarr" target="_blank">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" />
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://fb.com/natxarr" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
+
 <br>
+
+<!-- Motivational quotes -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <br> 
@@ -145,83 +152,66 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <br> 
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> GitHub Stats
+<!-- Github profile statistics -->
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
+## <picture>
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px">
+</picture> GitHub Stats
 
-----
+<details>
+  <summary><h3> 🔥 Streak Stats</h3></summary>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=natdevx&theme=blue-green" alt="natdevx" />
-	[![Racha de GitHub](https://github-readme-streak-stats.herokuapp.com?user=NatDevX&theme=blue-green&hide_border=falso&short_numbers=falso)](https://git.io/streak-stats)
-</p>
+  <br>
 
-</details>
-
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
-
-----
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="natdevx's Github Stats" src="https://github-readme-stats.vercel.app/api?username=natdevx&show_icons=true&count_private=true&locale=en&theme=blue-green&layout=compact" height="230px"/>
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=natdevx&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="natdevx" height="230px"/>
-  <br/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
-
-</details>
-
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-
-----
-
-[![natdevx's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=natdevx&theme=github)](https://github.com/natdevx/github-readme-activity-graph)
-
-</details>
-
-
-<details><summary><h3> :open_file_folder: My Repositories</h3></summary>
-
-----
-
-<div>
   <p align="center">
-
-  <!-- Agrega tus repos favoritos aquí -->
-  <!-- Ejemplo -->
-  <a href="https://github.com/natdevx/TuRepositorio1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=natdevx&repo=TuRepositorio1&theme=tokyonight" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/natdevx/TuRepositorio2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=natdevx&repo=TuRepositorio2&theme=tokyonight" alt="GitHub Stats" />
-  </a>
-  <!-- Puedes seguir agregando más repos aquí -->
+    <a href="https://git.io/streak-stats">
+      <img 
+        src="https://github-readme-streak-stats.herokuapp.com?user=natdevx&theme=blue-green&hide_border=true&short_numbers=false" 
+        alt="GitHub Streak Stats"
+      />
+    </a>
   </p>
-</div>
 
 </details>
 
-<details><summary><h3> :trophy: GitHub Profile Trophies</h3></summary>
+<!-- Github profile statistics 2 -->
+<details>
+  <summary><h3>💻 GitHub Profile Stats</h3></summary>
 
-----
+  <br>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=natdevx&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="natdevx" />
-  </a>
-</p>
+  <p align="center">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=natdevx&show_icons=true&count_private=true&theme=blue-green"
+      height="200"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=natdevx&layout=compact&theme=blue-green"
+      height="200"
+    />
+  </p>
 
-<!-- Si tienes Holopin, puedes añadir tu username debajo -->
-<!--
-[![@natdevx's Holopin board](https://holopin.io/api/user/board?user=natdevx)](https://holopin.io/@natdevx)
--->
+  <p align="center">
+    <i>Top languages ​​only reflects public repositories</i>
+  </p>
 
 </details>
+
+
+<!-- Github profile activity -->
+<details>
+  <summary><h3>⚡ Recent GitHub Activity</h3></summary>
+
+  <br>
+
+  <p align="center">
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=natdevx&theme=github-dark&hide_border=true" 
+      alt="GitHub Activity Graph"
+    />
+  </p>
+
+</details>
+
 
 </br></br>
-
-
-
