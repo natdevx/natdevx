@@ -82,10 +82,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <picture>
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px">
-</picture>
-Connect with me
+
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"></picture> Connect with me
 <br>
 
 <p align="center">
@@ -154,9 +152,7 @@ Connect with me
 
 <!-- Github profile statistics -->
 
-## <picture>
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px">
-</picture> GitHub Stats
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px"></picture> GitHub Stats
 
 <details>
   <summary><h3> 🔥 Streak Stats</h3></summary>
@@ -212,6 +208,5 @@ Connect with me
   </p>
 
 </details>
-
 
 </br></br>
