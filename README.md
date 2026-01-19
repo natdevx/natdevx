@@ -152,7 +152,7 @@
 ----
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=natdevx&theme=tokyonight_duo" alt="natdevx" />
+	[![Racha de GitHub](https://github-readme-streak-stats.herokuapp.com?user=NatDevX&theme=blue-green&hide_border=falso&short_numbers=falso)](https://git.io/streak-stats)
 </p>
 
 </details>
@@ -163,7 +163,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="natdevx's Github Stats" src="https://github-readme-stats.vercel.app/api?username=natdevx&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
+    <img alt="natdevx's Github Stats" src="https://github-readme-stats.vercel.app/api?username=natdevx&show_icons=true&count_private=true&locale=en&theme=blue-green&layout=compact" height="230px"/>
   </a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=natdevx&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="natdevx" height="230px"/>
   <br/>
