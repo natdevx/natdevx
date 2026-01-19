@@ -202,7 +202,7 @@
 
   <p align="center">
     <img 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=natdevx&theme=github-dark&hide_border=true" 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=natdevx&theme=tokyo-night&hide_border=true" 
       alt="GitHub Activity Graph"
     />
   </p>
