@@ -152,7 +152,7 @@
 ----
 
 <p align="center">
-	<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=NatDevX&theme=blue-green&hide_border=falso&short_numbers=falso" alt="GitHub Streak" /></a>
+	<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=natdevx&theme=blue-green&hide_border=falso&short_numbers=falso" alt="GitHub Streak" /></a>
 </p>
 
 </details>
