@@ -152,7 +152,8 @@
 ----
 
 <p align="center">
-	<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=natdevx&theme=blue-green&hide_border=falso&short_numbers=falso" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=natdevx&theme=blue-green" alt="natdevx" />
+	[![Racha de GitHub](https://github-readme-streak-stats.herokuapp.com?user=NatDevX&theme=blue-green&hide_border=falso&short_numbers=falso)](https://git.io/streak-stats)
 </p>
 
 </details>
