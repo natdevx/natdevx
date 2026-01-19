@@ -152,7 +152,7 @@
 ----
 
 <p align="center">
-	[![Racha de GitHub](https://github-readme-streak-stats.herokuapp.com?user=NatDevX&theme=blue-green&hide_border=falso&short_numbers=falso)](https://git.io/streak-stats)
+	<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=NatDevX&theme=blue-green&hide_border=falso&short_numbers=falso" alt="GitHub Streak" /></a>
 </p>
 
 </details>
