@@ -1,6 +1,7 @@
 <h1 align="center"><b>Hi , I'm Nat Arrazola </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<img width="2316" height="910" alt="Image" src="https://github.com/user-attachments/assets/227265fc-1b09-415f-86ef-79eef36b9c56" />
+<!--Imagen de banner -->
+<img width="1280" height="640" alt="Image" src="https://github.com/user-attachments/assets/cad2d00f-0f0d-4f8b-ba65-03fc1e5d7bd0" />
 <!--  -->
 <br>
 <br>
