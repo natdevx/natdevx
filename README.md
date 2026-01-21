@@ -88,16 +88,6 @@
 <br>
 
 <p align="center">
-  <!-- Indeed -->
-  <a href="https://www.indeed.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white" />
-  </a>
-
-  <!-- Computrabajo -->
-  <a href="https://www.computrabajo.com.mx/" target="_blank">
-    <img src="https://img.shields.io/badge/Computrabajo-0077C8?style=for-the-badge&logo=briefcase&logoColor=white" />
-  </a>
-
   <!-- CodePen -->
   <a href="https://codepen.io/natxarrazola" target="_blank">
     <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
@@ -113,11 +103,6 @@
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 
-  <!-- Instagram -->
-  <a href="https://instagram.com/_natxarr" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-
   <!-- Discord -->
   <a href="https://discord.gg/_natxarr" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
@@ -127,12 +112,6 @@
   <a href="https://www.threads.net/@_natxarr" target="_blank">
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" />
   </a>
-
-  <!-- Facebook -->
-  <a href="https://fb.com/natxarr" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-</p>
 
 <br>
 
