@@ -157,10 +157,14 @@
   <br>
 
   <p align="center">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=natdevx&show_icons=true&count_private=true&theme=blue-green"
-      height="200"
-    />
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html?cardType=level-alternate&theme=blue-green&fontFamily=Cascadia%20Code&preferLogin=true">
+      <img
+        alt="natdevx's GitHub Stats"
+        src="https://awesome-github-stats.azurewebsites.net/user-stats/natdevx?cardType=level-alternate&theme=blue-green&fontFamily=Cascadia%20Code&preferLogin=true"
+        height="200"
+      />
+    </a>
+
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=natdevx&layout=compact&theme=blue-green"
       height="200"
@@ -172,6 +176,7 @@
   </p>
 
 </details>
+
 
 
 <!-- Github profile activity -->
