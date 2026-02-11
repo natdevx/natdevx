@@ -161,16 +161,9 @@
       <img
         alt="natdevx's GitHub Stats"
         src="https://awesome-github-stats.azurewebsites.net/user-stats/natdevx?cardType=level-alternate&theme=blue-green&fontFamily=Cascadia%20Code&preferLogin=true"
-        height="200"
-      />
+        height="200" />
     </a>
-
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=natdevx&layout=compact&theme=blue-green"
-      height="200"
-    />
   </p>
-
   <p align="center">
     <i>Top languages ​​only reflects public repositories</i>
   </p>
